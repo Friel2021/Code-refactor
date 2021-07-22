@@ -9,6 +9,8 @@ Our Horiseon homeweb page is now fully functional.
 
 Please follow the below link for our updated website
   * https://friel2021.github.io/Code-refactor/
+
+© 2021 Friel
   
   
 
