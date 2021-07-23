@@ -3,7 +3,7 @@
 ## Overview:
 
 Our Horiseon home webpage is back online and fully functional!
-  * Link for Search Engine Optimization has been repaired.
+  * Link for Search Engine Optimization in the header has been repaired.
   * Image description tags have been placed for easier accessibility.
   * The coding has been cleaned and condensed. 
   * We hope you enjoy your experience.
